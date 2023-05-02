@@ -1,2 +1,2 @@
-# Complete_Intro_to_Computer_Science_Sandbox
+# algorithms-exercises
 Created with CodeSandbox
